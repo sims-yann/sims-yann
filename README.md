@@ -75,6 +75,7 @@ If you're a **recruiter** looking for a technically sound, fast-learning develop
 
 📫 Feel free to explore my work:  
 👉 [github.com/sims-yann](https://github.com/sims-yann)
+👉 [gitlab.com/sims-yann](https://gitlab.com/sims-yann)
 
 ---
 
