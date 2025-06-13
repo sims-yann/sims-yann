@@ -82,7 +82,7 @@ If you're a **recruiter** looking for a technically sound, fast-learning develop
   <summary>📌 What's Next?</summary>
 
 - A smart delivery-routing app using graph algorithms  
-- A dynamic AI-powered portfolio  
+- A dynamic Online Banking System 
 - Publishing technical blogs and tutorials to give back to the dev community  
 
 </details>
