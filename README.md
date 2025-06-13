@@ -5,7 +5,7 @@
 <p align="center">🎓 Software Engineering Student | 💻 Python Developer | 🤖 AI/ML & Full-Stack Development Enthusiast</p>
 
 <p align="center">
-  <img src="Image.png" width="150" alt="Your Profile Photo" style="border-radius: 50%" />
+  <img src="Image.jpg" width="150" alt="Your Profile Photo" style="border-radius: 50%" />
 </p>
 
 ---
