@@ -1,8 +1,11 @@
+<div align="center">
+  <img src="Banner.png" alt="sims-yann banner" style="width:100%;"/>
+</div>
 <h1 align="center">👋 Hi, I'm Yann</h1>
 <p align="center">🎓 Software Engineering Student | 💻 Python Developer | 🤖 AI/ML & Full-Stack Development Enthusiast</p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" alt="Your Profile Photo" style="border-radius: 50%" />
+  <img src="Image.png" width="150" alt="Your Profile Photo" style="border-radius: 50%" />
 </p>
 
 ---
