@@ -52,6 +52,10 @@ My work combines clean code with scalable architecture and thoughtful UI design.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sims-yann&theme=default&hide_border=false)
 
+<a href="https://www.linkedin.com/in/sims-yann/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sims-yann&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="top languages" />
+
 </div>
 
 ---
