@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner.png" alt="sims-yann banner" style="width:100%;"/>
+  <img src="Banner_new.png" alt="sims-yann banner" style="width:100%;"/>
 </div>
 <h1 align="center">👋 Hi, I'm Yann</h1>
 <p align="center">🎓 Software Engineering Student | 💻 Python Developer | 🤖 AI/ML & Full-Stack Development Enthusiast</p>
